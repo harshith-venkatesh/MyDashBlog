@@ -2,7 +2,11 @@ import React from "react";
 import "../App.css";
 const AboutPage = () => {
   return (
-    <React.Fragment>
+    <React.Fragment
+      onClick={(event) =>
+        (window.location.href = "http://github.com/Harshi7016")
+      }
+    >
       <header class="site-header">
         <img
           class="image-header"
