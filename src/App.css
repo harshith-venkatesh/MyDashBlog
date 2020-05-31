@@ -51,8 +51,6 @@ nav a:hover {
   color: white;
 }
 
-
-
 .article-list-item {
   text-decoration: none;
   color: black;
@@ -98,4 +96,34 @@ p {
 .comment {
   border-bottom: 2px solid black;
   padding: 16px;
+}
+
+.site-header {
+  color: rgb(205, 219, 216);
+  background-color: rgb(25, 180, 145);
+  height: 100vh;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgb(1, 29, 22) 2px 5px 5px;
+}
+
+.image-header {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50vh;
+  width: 50vh;
+  box-shadow: rgb(1, 29, 22) 2px 5px 5px;
+}
+.site-header-content {
+  margin: 1rem;
+}
+
+.course-link {
+  color: rgb(205, 219, 216);
 }
