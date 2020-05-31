@@ -101,7 +101,7 @@ p {
 .site-header {
   color: rgb(2, 24, 19);
   background-color: rgb(255, 255, 255);
-  height: 100vh;
+  height: 80vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
   display: flex;
@@ -126,5 +126,5 @@ p {
 }
 
 .course-link {
-  color: rgb(205, 219, 216);
+  color: rgb(12, 87, 70);
 }

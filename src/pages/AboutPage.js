@@ -13,7 +13,7 @@ const AboutPage = () => {
             Hi I am Harshith Venkatesh currently working in Centurylink India
             Private Limited
           </h1>
-          <h3>I am skilled at Angular,React anb NodeJs</h3>
+          <h3>I am skilled at Angular,React and NodeJs</h3>
           <h4>
             I am learning full stack development. watch this space for upcoming
             projects
