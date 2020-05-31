@@ -108,7 +108,7 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: rgb(1, 29, 22) 2px 5px 5px;
+  /* box-shadow: rgb(1, 29, 22) 2px 5px 5px; */
 }
 
 .image-header {
